@@ -17,7 +17,7 @@ function FloatingPaths({ position }: { position: number }) {
   return (
     <div className="absolute inset-0 pointer-events-none">
       <svg className="w-full h-full text-foreground/80" viewBox="0 0 696 316" fill="none">
-        <title>Background Paths</title>
+        <title>Orman Aziz</title>
         {paths.map((path) => {
           const duration = 20 + ((path.id * 7) % 10);
           return (
