@@ -107,11 +107,7 @@ export function BackgroundPaths({
                 </span>
               ))}
             </h1>
-
-            <p className="mx-auto mb-10 max-w-2xl text-lg text-foreground/80">
-              Orchestrating products at the intersection of craft, systems, and AI.
-              I lead multidisciplinary teams to ship experiences that feel inevitable.
-            </p>
+              
 
             <div className="group relative inline-block overflow-hidden rounded-2xl bg-gradient-to-b from-foreground/10 to-background/10 p-px shadow-lg backdrop-blur-lg transition-shadow duration-300 hover:shadow-xl">
               <Button
@@ -159,7 +155,7 @@ export function BackgroundPaths({
                   About me
                 </p>
                 <p className="mt-6 text-lg leading-relaxed text-foreground/80">
-                  Hello everyone! I am a recent UC San Diego graduate with a Bachelor's in Mathematics and Computer Science. I enjoy the mysteries of numbers and the magic of code. Beyond my technical interests, I love spending time with friends and family as well as taking care of my own health.
+                  Hello everyone! I am a recent UC San Diego graduate with a Bachelor&apos;s in Mathematics and Computer Science. I enjoy the mysteries of numbers and the magic of code. Beyond my technical interests, I love spending time with friends and family as well as taking care of my own health.
                 </p>
               </div>
 
