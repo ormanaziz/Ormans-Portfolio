@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Background Paths Demo",
-  description: "Animated hero component powered by shadcn/ui and Tailwind CSS",
+  title: "Orman Aziz",
+  description: "Portfolio of Orman Aziz — Mathematics & Computer Science graduate.",
 };
 
 export default function RootLayout({
