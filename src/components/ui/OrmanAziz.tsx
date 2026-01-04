@@ -160,6 +160,48 @@ export function BackgroundPaths({
               </div>
 
               <TrackElementWithinViewport />
+
+              <div className="mt-16 grid gap-6 md:grid-cols-2">
+                <a
+                  href="https://www.linkedin.com/in/orman-aziz"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="group flex flex-col justify-between rounded-3xl border border-border/40 bg-gradient-to-br from-foreground/5 via-background/40 to-background/80 p-6 text-left shadow-[0_20px_60px_rgba(15,23,42,0.25)] transition-all duration-300 hover:-translate-y-1 hover:border-foreground/60"
+                >
+                  <p className="text-xs font-semibold uppercase tracking-[0.4em] text-foreground/60">
+                    Connect
+                  </p>
+                  <div className="mt-6 flex items-center justify-between">
+                    <div>
+                      <p className="text-lg font-semibold text-foreground">LinkedIn</p>
+                      <p className="text-sm text-foreground/70">@orman-aziz</p>
+                    </div>
+                    <span className="text-2xl transition-transform duration-300 group-hover:translate-x-1">
+                      ↗
+                    </span>
+                  </div>
+                </a>
+
+                <a
+                  href="https://mail.google.com/mail/?view=cm&fs=1&to=ormanaziz31@gmail.com&body=Hi%20Orman%2C"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="group flex flex-col justify-between rounded-3xl border border-border/40 bg-gradient-to-br from-foreground/5 via-background/40 to-background/80 p-6 text-left shadow-[0_20px_60px_rgba(15,23,42,0.25)] transition-all duration-300 hover:-translate-y-1 hover:border-foreground/60"
+                >
+                  <p className="text-xs font-semibold uppercase tracking-[0.4em] text-foreground/60">
+                    Contact
+                  </p>
+                  <div className="mt-6 flex items-center justify-between">
+                    <div>
+                      <p className="text-lg font-semibold text-foreground">ormanaziz31@gmail.com</p>
+                      <p className="text-sm text-foreground/70"> Open to new opportunities.</p>
+                    </div>
+                    <span className="text-2xl transition-transform duration-300 group-hover:-translate-x-1">
+                      ✉️
+                    </span>
+                  </div>
+                </a>
+              </div>
             </div>
           </motion.section>
         )}
