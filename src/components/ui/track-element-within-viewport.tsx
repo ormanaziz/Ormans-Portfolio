@@ -37,17 +37,16 @@ const resumeHighlights: ReadonlyArray<ResumeHighlight> = [
     keywords: ["Next.js", "TypeScript", "CSS"],
   },
   {
-    title: "Account Executive",
+    title: "Financial Analyst",
     organization: "SugaCards",
     period: "Jan 2022 — Dec 2024",
     location: "San Francisco, CA",
-    focus: "B2B Growth & Operations",
+    focus: "Revenue Analytics",
     summary:
-      "Managed all B2B vendor relations and procurement contracts. Negotiated high stakes agreements to reduce costs and protected profit margins, ensuring long term account sustainability.",
+      "Tracked team sales performance and analyzed revenue trends to inform better financial decisions across the organization.",
     achievements: [
-      "",
     ],
-    keywords: ["Negotiation", "Revenue Operations", "Vendor Management"],
+    keywords: ["Financial Analysis", "Revenue Insights", "Decision Making"],
   },
   {
     title: "Server & Floor Lead",
